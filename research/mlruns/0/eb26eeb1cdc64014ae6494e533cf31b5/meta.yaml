@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bhave/MLOPS%20Projects/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/eb26eeb1cdc64014ae6494e533cf31b5/artifacts
+end_time: 1716979905405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb26eeb1cdc64014ae6494e533cf31b5
+run_name: delightful-owl-78
+run_uuid: eb26eeb1cdc64014ae6494e533cf31b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716979901552
+status: 3
+tags: []
+user_id: bhave

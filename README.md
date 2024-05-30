@@ -40,3 +40,23 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+### Mlflow dagshub connection uri
+```bash
+MLFLOW_TRACKING_URI=https://dagshub.com/Bhaveshwagh04/MLFlow-demo.mlflow\
+MLFLOW_TRACKING_USERNAME=Bhaveshwagh04\
+MLFLOW_TRACKING_PASSWORD=8a5f2fbcd45f29995eb42ba20b976716667ef6e5\
+python script.py
+```
+
+
+## RUN from bash terminal
+```bash
+export MLFLOW_TRACKING_URI=https://dagshub.com/Bhaveshwagh04/mlflow-exp-demo.mlflow
+
+export MLFLOW_TRACKING_USERNAME=Bhaveshwagh04
+
+export MLFLOW_TRACKING_PASSWORD=8a5f2fbcd45f29995eb42ba20b976716667ef6e5
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/Bhaveshwagh04/MLFlow-demo.mlflow
+```

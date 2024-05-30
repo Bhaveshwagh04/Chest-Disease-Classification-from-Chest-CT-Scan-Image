@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bhave/MLOPS%20Projects/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/980ec911aefa4ff486a1d276ee3caf78/artifacts
+end_time: 1716979485086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 980ec911aefa4ff486a1d276ee3caf78
+run_name: silent-elk-79
+run_uuid: 980ec911aefa4ff486a1d276ee3caf78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716979481664
+status: 3
+tags: []
+user_id: bhave
