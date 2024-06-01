@@ -1,6 +1,9 @@
-import numpy as np
+# Import necessary modules
+import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
+import numpy as np
+
 import os
 
 
@@ -22,8 +25,8 @@ class PredictionPipeline:
         print(result)
 
         if result[0] == 1:
-            prediction = "Normal"
+            prediction = "Adenocarcinoma Cancer"
             return [{"image": prediction}]
         else:
-            prediction = "Adenocarcinoma Cancer"
+            prediction = "Normal"
             return [{"image": prediction}]
